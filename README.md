@@ -16,5 +16,5 @@ Run `npm start` to start the custom JSON server or run `npm run start-cli` to st
 
 ### API endpoints
 
-* `http://localhost:3000\api\books`
-* `http://localhost:3000\api\authors`
+* `http://localhost:3000/api/books`
+* `http://localhost:3000/api/authors`
