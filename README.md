@@ -4,7 +4,7 @@ This project is a [JSON Server](https://github.com/typicode/json-server) impleme
 
 ## Book-Bound API Challenge
 
-[The API Challenge](https://idlemachinery.com/io/the-api-challenge/) involves creating the same API with book and author endpoints in as many different implementations as possible.
+[The API Challenge](https://idlemachinery.com/io/the-api-challenge/) involves creating the same API with book and author endpoints using as many different implementations as possible.
 
 ## Installing the application
 
@@ -16,5 +16,5 @@ Run `npm start` to start the custom JSON server or run `npm run start-cli` to st
 
 ### API endpoints
 
-`http://localhost:3000\api\books`
-`http://localhost:3000\api\authors`
+* `http://localhost:3000\api\books`
+* `http://localhost:3000\api\authors`
