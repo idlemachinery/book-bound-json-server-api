@@ -1,6 +1,6 @@
 {
   "name": "book-bound-json-server-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON Server API implementation for the Book-Bound API Challenge.",
   "main": "server.js",
   "scripts": {
