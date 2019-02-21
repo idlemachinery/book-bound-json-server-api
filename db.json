@@ -55,7 +55,7 @@
       "title": "War and Peace",
       "genre": "Historical Fiction",
       "author": "Lev Nikolayevich Tolstoy",
-      "bookId": 656,
+      "goodreadsId": 656,
       "read": false
     },
     {
@@ -63,7 +63,7 @@
       "title": "Les Misérables",
       "genre": "Historical Fiction",
       "author": "Victor Hugo",
-      "bookId": 24280,
+      "goodreadsId": 24280,
       "read": false
     },
     {
@@ -71,7 +71,7 @@
       "title": "The Time Machine",
       "genre": "Science Fiction",
       "author": "H. G. Wells",
-      "bookId": 2493,
+      "goodreadsId": 2493,
       "read": false
     },
     {
@@ -79,7 +79,7 @@
       "title": "A Journey into the Center of the Earth",
       "genre": "Science Fiction",
       "author": "Jules Verne",
-      "bookId": 32829,
+      "goodreadsId": 32829,
       "read": false
     },
     {
@@ -87,7 +87,7 @@
       "title": "The Dark World",
       "genre": "Fantasy",
       "author": "Henry Kuttner",
-      "bookId": 1881716,
+      "goodreadsId": 1881716,
       "read": false
     },
     {
@@ -95,7 +95,7 @@
       "title": "The Wind in the Willows",
       "genre": "Fantasy",
       "author": "Kenneth Grahame",
-      "bookId": 5659,
+      "goodreadsId": 5659,
       "read": false
     },
     {
@@ -103,7 +103,7 @@
       "title": "Life On The Mississippi",
       "genre": "History",
       "author": "Mark Twain",
-      "bookId": 99152,
+      "goodreadsId": 99152,
       "read": false
     },
     {
@@ -111,7 +111,7 @@
       "title": "Childhood",
       "genre": "Biography",
       "author": "Lev Nikolayevich Tolstoy",
-      "bookId": 2359878,
+      "goodreadsId": 2359878,
       "read": false
     },
     {
@@ -119,7 +119,7 @@
       "title": "Ready Player One",
       "genre": "Science Fiction",
       "author": "Ernest Cline",
-      "bookId": 9969571,
+      "goodreadsId": 9969571,
       "read": false
     },
     {
@@ -127,7 +127,7 @@
       "title": "What Technology Wants",
       "genre": "Science > Technology",
       "author": "Kevin Kelly",
-      "bookId": 7954936,
+      "goodreadsId": 7954936,
       "read": false
     },
     {
@@ -135,7 +135,7 @@
       "title": "The Age of Spiritual Machines",
       "genre": "Science",
       "author": "Ray Kurzweil",
-      "bookId": 83533,
+      "goodreadsId": 83533,
       "read": false
     },
     {
@@ -143,7 +143,7 @@
       "title": "The Innovators",
       "genre": "History",
       "author": "Walter Isaacson",
-      "bookId": 21856367,
+      "goodreadsId": 21856367,
       "read": false
     },
     {
@@ -151,7 +151,7 @@
       "title": "Visions: How Science Will Revolutionize the 21st Century",
       "genre": "Science",
       "author": "Michio Kaku",
-      "bookId": 785432,
+      "goodreadsId": 785432,
       "read": false
     }
   ]
