@@ -27,26 +27,6 @@
     {
       "id": 7,
       "name": "Mark Twain"
-    },
-    {
-      "id": 8,
-      "name": "Ernest Cline"
-    },
-    {
-      "id": 9,
-      "name": "Kevin Kelly"
-    },
-    {
-      "id": 10,
-      "name": "Ray Kurzweil"
-    },
-    {
-      "id": 11,
-      "name": "Walter Isaacson"
-    },
-    {
-      "id": 12,
-      "name": "Michio Kaku"
     }
   ],
   "books": [
@@ -55,6 +35,8 @@
       "title": "War and Peace",
       "genre": "Historical Fiction",
       "author": "Lev Nikolayevich Tolstoy",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1413215930m/656.jpg",
       "goodreadsId": 656,
       "read": false
     },
@@ -63,6 +45,8 @@
       "title": "Les Misérables",
       "genre": "Historical Fiction",
       "author": "Victor Hugo",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1411852091m/24280.jpg",
       "goodreadsId": 24280,
       "read": false
     },
@@ -71,6 +55,8 @@
       "title": "The Time Machine",
       "genre": "Science Fiction",
       "author": "H. G. Wells",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1327942880m/2493.jpg",
       "goodreadsId": 2493,
       "read": false
     },
@@ -79,6 +65,8 @@
       "title": "A Journey into the Center of the Earth",
       "genre": "Science Fiction",
       "author": "Jules Verne",
+      "description": "",
+      "coverImage": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
       "goodreadsId": 32829,
       "read": false
     },
@@ -87,6 +75,8 @@
       "title": "The Dark World",
       "genre": "Fantasy",
       "author": "Henry Kuttner",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1322680910m/1881716.jpg",
       "goodreadsId": 1881716,
       "read": false
     },
@@ -95,6 +85,8 @@
       "title": "The Wind in the Willows",
       "genre": "Fantasy",
       "author": "Kenneth Grahame",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1423183570m/5659.jpg",
       "goodreadsId": 5659,
       "read": false
     },
@@ -103,6 +95,8 @@
       "title": "Life On The Mississippi",
       "genre": "History",
       "author": "Mark Twain",
+      "description": "",
+      "coverImage": "https://images.gr-assets.com/books/1309286211m/99152.jpg",
       "goodreadsId": 99152,
       "read": false
     },
@@ -111,47 +105,9 @@
       "title": "Childhood",
       "genre": "Biography",
       "author": "Lev Nikolayevich Tolstoy",
+      "description": "",
+      "coverImage": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
       "goodreadsId": 2359878,
-      "read": false
-    },
-    {
-      "id": 9,
-      "title": "Ready Player One",
-      "genre": "Science Fiction",
-      "author": "Ernest Cline",
-      "goodreadsId": 9969571,
-      "read": false
-    },
-    {
-      "id": 10,
-      "title": "What Technology Wants",
-      "genre": "Science > Technology",
-      "author": "Kevin Kelly",
-      "goodreadsId": 7954936,
-      "read": false
-    },
-    {
-      "id": 11,
-      "title": "The Age of Spiritual Machines",
-      "genre": "Science",
-      "author": "Ray Kurzweil",
-      "goodreadsId": 83533,
-      "read": false
-    },
-    {
-      "id": 12,
-      "title": "The Innovators",
-      "genre": "History",
-      "author": "Walter Isaacson",
-      "goodreadsId": 21856367,
-      "read": false
-    },
-    {
-      "id": 13,
-      "title": "Visions: How Science Will Revolutionize the 21st Century",
-      "genre": "Science",
-      "author": "Michio Kaku",
-      "goodreadsId": 785432,
       "read": false
     }
   ]
