@@ -2,12 +2,6 @@
   "name": "book-bound-json-server-api",
   "version": "1.0.1",
   "description": "JSON Server API implementation for the Book-Bound API Challenge.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "start-cli": "json-server -w db.json -r routes.json"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idlemachinery/book-bound-json-server-api.git"
@@ -22,6 +16,12 @@
     "url": "https://github.com/idlemachinery/book-bound-json-server-api/issues"
   },
   "homepage": "https://github.com/idlemachinery/book-bound-json-server-api#readme",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server -w db.json -r routes.json",
+    "server": "node server.js"
+  },
   "dependencies": {
     "json-server": "0.14.2"
   }

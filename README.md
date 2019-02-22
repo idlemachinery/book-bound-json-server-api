@@ -1,6 +1,8 @@
 # Book-Bound JSON Server API
 
-This project is a [JSON Server](https://github.com/typicode/json-server) implementation of an API for the Book-Bound API Challenge.  JSON Server is extremely simple to use from the command line but I have also included `server.js` to demonstrate setting up a custom server in code.
+This project is a [JSON Server](https://github.com/typicode/json-server) implementation of an API for the Book-Bound API Challenge.
+
+JSON Server is extremely simple to use from the command line so I have also included `server.js` to demonstrate setting up a custom server in code.
 
 ## Book-Bound API Challenge
 
@@ -12,7 +14,7 @@ Download the project from GitHub.  Run `npm install` to install package dependen
 
 ## Running the application
 
-Run `npm start` to start the custom JSON server or run `npm run start-cli` to start the server using command-line attributes. Navigate to `http://localhost:3000` to view the endpoint.  The app will automatically reload if you edit the contents of `db.json`.
+Run `npm start` to start JSON server using command-line attributes or run `npm run server` to start the custom server. Navigate to `http://localhost:3000` to view the endpoint.
 
 ### API endpoints
 
