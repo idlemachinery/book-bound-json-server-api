@@ -1,6 +1,6 @@
 {
   "name": "book-bound-json-server-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JSON Server API implementation for the Book-Bound API Challenge.",
   "repository": {
     "type": "git",
